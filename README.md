@@ -1,6 +1,6 @@
 # Deploying End-to-End ML Projects in Production on AWS Cloud using CI/CD Pipeline
 
-![AWS Logo](https://commons.wikimedia.org/wiki/File:Amazon_Web_Services_Logo.svg)
+![Amazon_Web_Services-Logo](https://github.com/NitishKundu/aws-deployment/assets/79974360/ea2995ac-524e-4d8c-bf99-5e55d73512fb)
 
 This repository provides a step-by-step guide on deploying an end-to-end Machine Learning (ML) project in a production environment on the AWS Cloud. The deployment process is automated using a Continuous Integration and Continuous Deployment (CI/CD) pipeline, and the code is deployed on an EC2 instance using GitHub Actions.
 
