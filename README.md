@@ -9,7 +9,7 @@ This repository provides a step-by-step guide on deploying an end-to-end Machine
 
 In this project, we aim to deploy a complete ML solution in a scalable and automated way on AWS. The project includes the following key components:
 
-1. ML Model: Develop and train the ML model using the appropriate libraries and frameworks (e.g., TensorFlow, PyTorch, scikit-learn).
+1. ML Model: Develop and train the ML model using the appropriate libraries and frameworks (e.g. scikit-learn).
 
 2. Data Preprocessing: Implement data preprocessing steps to clean and transform raw data for the ML model.
 
