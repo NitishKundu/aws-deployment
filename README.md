@@ -84,6 +84,10 @@ git clone https://github.com/your-username/your-repo.git
 4. AWS_ECR_LOGIN_URI
 5. ECR_REPOSITORY_NAME
 
+## Deployment Snapshot
+
+![Deployment Screenshot](https://github.com/NitishKundu/aws-deployment/assets/79974360/20960c50-9c79-4272-90da-2bddc28ff6b5)
+
 ## Notes
 
 - Keep your AWS credentials and sensitive information secure and avoid pushing them to the repository.
