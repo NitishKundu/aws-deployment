@@ -1,6 +1,6 @@
 # Deploying End-to-End ML Projects in Production on AWS Cloud using CI/CD Pipeline
 
-![pngwing com](https://github.com/NitishKundu/aws-deployment/assets/79974360/33970a79-70f0-460c-ad10-b4fff9833cf7)
+![pngwing com (2)](https://github.com/NitishKundu/aws-deployment/assets/79974360/2e4f8c6d-94e2-4464-aacd-a9e4e10322ba)
 
 This repository provides a step-by-step guide on deploying an end-to-end Machine Learning (ML) project in a production environment on the AWS Cloud. The deployment process is automated using a Continuous Integration and Continuous Deployment (CI/CD) pipeline, and the code is deployed on an EC2 instance using GitHub Actions. The deployment is containerized using Docker and the ECR (Elastic Container Registry) service, leveraging GitHub Runners for workflow execution.
 
